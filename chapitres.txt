@@ -1,6 +1,45 @@
 
 Here are several chapters : 
 
-Chapitre suivant:
-c'est un test pour merger
+Chapter 0:
+------------
 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras sed ligula ex. In eget varius nisi. 
+Sed vulputate purus in magna mattis, vel condimentum mi bibendum. Donec semper gravida risus eu dictum. 
+Maecenas sollicitudin, neque vitae ultricies accumsan, est dui faucibus quam, non efficitur urna magna id quam. 
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus sed ante 
+eu nunc ultricies consectetur eu id magna. Fusce ultricies id tellus eu aliquam. Aenean at erat diam.
+Mauris efficitur id nulla ac maximus. Etiam congue mi in vulputate iaculis. Sed at nunc leo. Mauris nec nunc odio. 
+Nullam libero mi, pellentesque id mi quis, faucibus tristique eros. Praesent suscipit tempus tincidunt. 
+Nulla mollis nunc sit amet diam interdum, at volutpat dolor faucibus. Nulla vel aliquet purus, ac consectetur nisi. 
+Aenean nulla augue, consectetur gravida auctor vel, auctor eu massa. Vivamus ultrices nisl in tellus laoreet, 
+non fringilla lectus mattis. Etiam mauris dolor, tempus vel elit non, suscipit molestie felis. Aenean commodo elementum fringilla. 
+Sed fringilla quis odio ac suscipit.
+Sed varius odio quam, nec facilisis turpis iaculis vel. Vivamus ipsum enim, molestie ac sem eu, gravida hendrerit 
+enim. Cras eleifend turpis ex, nec semper neque imperdiet at. Nullam porta dignissim velit, a lacinia augue aliquam et. 
+Suspendisse potenti. Donec ultricies lorem id elementum placerat. Nunc erat neque, mattis tincidunt nisi eu, hendrerit egestas velit. 
+Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent id erat vel ex tincidunt tristique rutrum at diam.
+Integer aliquam tortor quis purus ultrices pharetra nec vel odio. Praesent semper efficitur nibh. Duis non dui ac 
+enim commodo vehicula sit amet congue purus. Quisque mollis in nisi vel porttitor. Maecenas quis iaculis libero, 
+a imperdiet lorem. Aliquam vitae aliquet metus. Cras molestie quis augue eu molestie. Vestibulum ante ipsum primis 
+in faucibus orci luctus et ultrices posuere cubilia curae; Fusce non semper ex. Proin et nulla elit. Sed condimentum 
+commodo risus, vel pulvinar dui finibus et. Sed ut maximus ex.
+Vivamus semper velit vel elit aliquam, vel porttitor massa auctor. Pellentesque sit amet augue tortor. Vestibulum 
+lorem lorem, dignissim a vulputate ac, interdum eu sapien. Ut nec metus at tortor tincidunt eleifend. Aenean vel leo 
+sed augue efficitur lacinia ut nec est. Suspendisse potenti. Donec consequat orci nibh, eget blandit purus porttitor id. 
+Pellentesque mollis congue libero. Praesent pretium suscipit accumsan. Nullam vel quam aliquet, accumsan sapien sed, suscipit 
+justo. Donec feugiat porttitor molestie. Curabitur sit amet diam iaculis, eleifend ipsum at, fringilla mauris. Interdum et 
+malesuada fames ac ante ipsum primis in faucibus. Praesent ornare id mi ut sollicitudin. Sed accumsan diam sapien, a auctor 
+nulla faucibus ut. Praesent auctor fermentum est nec tristique.
+
+Chapter 1 :
+------------
+
+Where we learn about our main protagonist and thrilling goals.
+To some extent this has been written before,
+	but it does have some originality.
+  
+  
+Chapitre suivant:
+
+c'est un test pour merger
