@@ -33,3 +33,6 @@ Chapter 1 :
 Where we learn about our main protagonist and thrilling goals.
 To some extent this has been written before,
 	but it does have some originality.
+Chapitre suivant:
+c'est un test pour merger
+
